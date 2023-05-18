@@ -56,7 +56,7 @@ cricket.txt , algorithm.txt , viratkohli.txt , references.txt [ This contains th
 7.  Cities.txt: More about this is mentioned in the Maps section below.
   
 
-INFORMATION ABOUT FEATURES:
+# INFORMATION ABOUT FEATURES:
 
 1-To Browse:
 *************[PLEASE DO SEARCH ONLY WITH LOWER CASE LETTERS]***************
@@ -117,7 +117,7 @@ INFORMATION ABOUT FEATURES:
 
 [ WE HAVE NOT STORED THE HISTORY IN FILE SO ITS NOT PRESENT ONCE PROGRAM IS CLOSED ]
 
-City names are stored in the cities.txt 
+# City names are stored in the cities.txt 
 
 1.Search functionality - Asks user to enter source/destiny name, use   them as mentioned in the cities.txt;
 [PLEASE USE 1ST LETTER AS CAPTILAL]
