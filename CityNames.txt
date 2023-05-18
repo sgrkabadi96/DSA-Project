@@ -1,0 +1,11 @@
+Banglore 0
+Gadag 1 
+Dharwad 2 
+Mysore 3
+Hassan 4 
+Belgavi 5
+Yadgir 6
+Gulbarga 7
+Davangere 8
+Bidar 9
+Tumkuru 10
