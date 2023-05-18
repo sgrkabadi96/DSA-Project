@@ -117,7 +117,7 @@ cricket.txt , algorithm.txt , viratkohli.txt , references.txt [ This contains th
 
 [ WE HAVE NOT STORED THE HISTORY IN FILE SO ITS NOT PRESENT ONCE PROGRAM IS CLOSED ]
 
-# City names are stored in the cities.txt 
+City names are stored in the cities.txt 
 
 1.Search functionality - Asks user to enter source/destiny name, use   them as mentioned in the cities.txt;
 [PLEASE USE 1ST LETTER AS CAPTILAL]
